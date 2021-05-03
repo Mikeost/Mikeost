@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikeost
+- [](https://github.com/Mikeost/Mikeost/blob/main/wavehand.gif) Hi, I’m @Mikeost
 - 👀 I’m interested in software engineering, 3d modeling, musics, electronics, physics, math e.t.c 
 - 🌱 I’m currently learning algorithms cpp
 - 📫 How to reach me - mikeostashenko@gmail.com

@@ -7,7 +7,7 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mikeost&show_icons=true&hide_border=true&theme=dark">
 <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeost&theme=dark&layout=compire&langs_count=8">
 
-
+---
 ### Languages and tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)

@@ -1,5 +1,5 @@
 ## 👋 Hi there! 
-- I’m Mike, a software engineer.
+- I’m Mike, a software engineer. 👨🏻‍💻
 - 👀 I’m interested in software and hardware engineering, 3d modeling, electronics, math, physics e.t.c 
 - 💻 I’m currently learning algorithms cpp
 - 📫 How to reach me - mikeostashenko@gmail.com

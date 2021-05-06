@@ -1,3 +1,5 @@
+![](https://github.com/Mikeost/Mikeost/blob/main/mikeost.jpg)
+
 ## 👋 Hi there! 
 - I’m Mike, a software engineer. 👨🏻‍💻
 - 👀 I’m interested in software and hardware engineering, 3d modeling, electronics, math, physics e.t.c 

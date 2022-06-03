@@ -19,6 +19,3 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-090909?style=for-the-badge&logo=apple)
 
 ---
-### 🖤 Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/mikeostdev)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/mikeostd/)
